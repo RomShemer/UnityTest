@@ -1,8 +1,8 @@
 <div align="center">
 
-<h2>🎮 Unlocking Feelings — Demo</h2>
+<h2>Unlocking Feelings — Demo</h2>
 
-<h3>🏁 Intro &amp; Main Menu</h3>
+<h3> Intro &amp; Main Menu</h3>
 <video src="https://github.com/user-attachments/assets/36051bb9-d5b1-45e6-8b5b-ee19933f3490" controls style="max-width: 100%; width: 900px;"></video>
 
 <hr/>
